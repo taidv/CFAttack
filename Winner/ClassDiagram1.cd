@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ContinuedFractionAttack.BigFraction" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAgAAAgAAAAAAAAAAAAAAAAAIAAAACIAAAA=</HashCode>
+      <FileName>BigFraction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ContinuedFractionAttack.CFAAlgorithm" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAEAAAAAAAAAAAgAAAAAAAYAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CFAAlgorithm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ContinuedFractionAttack.Extentions" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>CFAAlgorithm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ContinuedFractionAttack.ContinuedFractionAttack" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgBBDARBCQAOiIgAASkAiCmAAACggGAUIACAiiECaA=</HashCode>
+      <FileName>ContinuedFractionAttack.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ContinuedFractionAttack.Key" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAQQAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>Key.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ContinuedFractionAttack.KeyReports" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAABAAAAAAgAAAAAQAAAAAAAAAAAEAAAGQAAAAAAA=</HashCode>
+      <FileName>KeyReports.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ContinuedFractionAttack.Program" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ContinuedFractionAttack.RsaKey" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAQAAAAAABBAAAAQQAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RsaKey.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ContinuedFractionAttack.Properties.Resources" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ContinuedFractionAttack.Properties.Settings" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
